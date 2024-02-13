@@ -1,0 +1,21 @@
+﻿1
+00:00:01,000 --> 00:00:03,000
+Subtitles Renderer
+Github <a href="github.com/ill-usion">ill-usion</a>
+
+2
+00:00:03,000 --> 00:00:05,000
+<i>Italic</i>
+
+3
+00:00:05,000 --> 00:00:07,000
+<b>Bold</b>
+
+4
+00:00:07,000 --> 00:00:09,000
+<code>code</code>
+
+5
+00:00:09,000 --> 00:00:11,000
+multiline
+text
